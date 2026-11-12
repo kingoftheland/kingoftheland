@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Syarip 👋
 
-<!--
-**kingoftheland/kingoftheland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bug bounty hunter | Web3 security researcher | Building AI agents**
 
-Here are some ideas to get you started:
+- 🔍 Hunting bugs on Hyperliquid, Ethereum Foundation, Cantina & Immunefi
+- 🤖 Building AI agents that work while I rest — Agent24Jam
+- 💼 Freelance admin & customer service on Fastwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Bug bounty focus
+- Hyperliquid — up to $1,000,000 USDC
+- Ethereum Foundation — up to $1,000,000
+- Metric (Immunefi) — up to $500,000
+- Revert v4lend (Cantina) — $50,000 USDC
+
+## 🛠️ Tools
+Foundry · Slither · Aderyn · Python · Solidity
+
+## 📫 Find me
+- Fastwork: https://fastwork.id/user/syarip_va/page-admin-15002089
+- Agent24Jam: https://muse.ai/s/agent24jam-web-xlxj6mvgxa8xalf/kVsmhB7NXSF73iqiHpuJ6eX-6MtpKxFCaqZ1ED-KBGA
